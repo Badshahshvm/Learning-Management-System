@@ -1,6 +1,6 @@
 Setup instruction
 Clone the project
-    git clone https://github.com/singhsanket143/lms-frontend-hn.git
+    git clone https://github.com/<your_useName>/<repository_name>-hn.git
 Move into the directory
     cd lms-frontend-hn
 install dependencies
